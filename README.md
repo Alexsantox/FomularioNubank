@@ -2,13 +2,13 @@
 
 
 
-### Formulário de login
+### Formulário do Nubank
 
-🟣 Uma página de formulário com "nome", "e-mail" e "senha" e com botão "Sign Up" com sombra.
+🟣 Uma página de formulário com "CPF", "Senha" e com botão "Continuar" com cor roxa.
 
-🟣 A página possui link para redes sociais como Google, Facebook e Linkedin.
+🟣 Logo abaixo possui as opções "Esqueci minha senha" e "Ainda não sou cliente".
 
-🟣 Ao lado direito da tela, adicionei imagens para preencher o fundo e não deixar apenas a tabela de formulário.
+🟣 Ao passar o cursor nas opções citadas a cima, reflete-se o efeito preto.
 
 #
 **Tecnologias usadas:**
