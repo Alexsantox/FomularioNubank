@@ -4,7 +4,7 @@
 
 ### Formulário do Nubank
 
-🟣 Uma página de formulário com "CPF", "Senha" e com botão "Continuar" com cor roxa.
+🟣 Uma página de formulário com "CPF", "Senha" e com botão "Continuar" com a cor roxa.
 
 🟣 Logo abaixo possui as opções "Esqueci minha senha" e "Ainda não sou cliente".
 
